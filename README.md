@@ -1,0 +1,1 @@
+The goal of this project is to analyze a dataset of appointment records from public hospitals in Brazil. The data includes various patient attributes and indicates whether patients attended their appointments. The focus of the analysis is to identify trends that influence patients' attendance at appointments.
