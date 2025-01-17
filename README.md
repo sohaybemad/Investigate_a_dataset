@@ -8,9 +8,9 @@ Question answered using python:
 
 •	Does the age affect whether patient will show up or not the ?
 
-•	Is there relation between the hypertension and the age of the patients?
+•	Is there a relation between the hypertension and the age of the patients?
 
-•	Is there relation between the diabetes and the age of the patients?
+•	Is there a relation between the diabetes and the age of the patients?
 
 •	Does receiving sms affect the count of patients showing up?
 
